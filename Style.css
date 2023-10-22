@@ -1,0 +1,11 @@
+﻿body {
+	background: #580f6e;
+}
+#clock {
+	position: absolute;
+	top: 30%;
+	left: 30%;
+	transform: translate(-50%, -50%);
+	width: calc(100vw - 4px);
+	max-width: 200px;
+}
